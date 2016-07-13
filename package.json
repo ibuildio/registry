@@ -2,7 +2,7 @@
   "name": "ibuildio-registry",
   "version": "0.1.0",
   "homepage": "https://ibuild.io",
-  "description": "List of packages available on Ibuild",
+  "description": "All the packages available on Ibuild",
   "author": "Adnan M.Sagar, PhD. <adnan@ibuild.io>",
   "license" : "MIT",
   "keywords": [
