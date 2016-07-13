@@ -1,0 +1,9 @@
+{
+  "title": "Template",
+  "icon": "https://raw.githubusercontent.com/gitboxed/media/gh-pages/assets/svg/logo/logo-3d-boxed-regentgray.svg",
+  "git": "https://github.com/ibuildio-templates/template.git",
+  "author": {
+    "name": "Adnan Sagar",
+    "email": "msagar@gmail.com"
+  }
+}
